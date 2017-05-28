@@ -4,6 +4,9 @@ Take a pet visa ajudar a divulgar e promover cães, gatos e outros animais comuni
 
 # INTALANDO O SISTEMA
 1. Checkout no projeto.
-2. Execute o comando: `npm install`, para instalar as dependenias necessárias.
+2. Execute o comando: `npm install`, para instalar as dependências necessárias.
 3. Execute o comando: `node server.js` para iniciar a aplicação.
 4. Abra o sistema em: `localhost:3000/quero-adotar.html`
+
+# EXECUTAR OS TESTES
+`npm test`
