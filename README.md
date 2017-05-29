@@ -1,12 +1,13 @@
 # TAKE A PET
-Take a pet visa ajudar a divulgar e promover c„es, gatos e outros animais comunit·rios ou desabrigados atravÈs de uma maneira simples e r·pida para que consigam achar um lar e uma famÌlia para am·-los.
-
+Take a pet visa ajudar a divulgar e promover c√£es, gatos e outros animais comunit√°rios ou desabrigados atrav√©s de uma maneira simples e r√°pida para que consigam achar um lar e uma fam√≠lia para am√°-los.
 
 # INTALANDO O SISTEMA
 1. Checkout no projeto.
-2. Execute o comando: `npm install`, para instalar as dependÍncias necess·rias.
-3. Execute o comando: `node server.js` para iniciar a aplicaÁ„o.
+2. Execute o comando: `npm install`, para instalar as depend√™ncias necess√°rias.
+3. Execute o comando: `node server.js` para iniciar a aplica√ß√£o.
 4. Abra o sistema em: `localhost:3000/quero-adotar.html`
+
+Obs.: O node precisa estar instalado em seu PC!
 
 # EXECUTAR OS TESTES
 `npm test`
